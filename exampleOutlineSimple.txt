@@ -1,0 +1,12 @@
+{
+  "user": {
+    "name": "John Doe",
+    "age": 30,
+    "email": "john.doe@example.com"
+  },
+  "job": {
+    "title": "Software Developer",
+    "skills": ["JavaScript", "React", "Node.js"]
+  },
+  "active": true
+}

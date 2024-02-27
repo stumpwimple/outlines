@@ -1,0 +1,21 @@
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+.Content {
+  display: flex;
+  padding: 40px;
+}
+
+.Content > div, .Content > textarea {
+  flex: 1; 
+  margin: 0 10px;
+}
+
+textarea {
+  width: 100%;
+  height: calc(100vh - 200px);
+  resize: vertical; 
+}
